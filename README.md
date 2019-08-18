@@ -1,7 +1,7 @@
 ## 项目计划
 
 ### 部分流程图
-![流程图](https://github.com/ppker/project_plan/plan0.png)
+![流程图](https://github.com/ppker/project_plan/blob/master/plan0.png)
 
 ### 计划  2018-08-18
 
