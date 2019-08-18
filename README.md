@@ -1,13 +1,13 @@
-mermaid
-graph LR
-    start[开始] --> input[输入A,B,C]
-    input --> conditionA{A是否大于B}
-    conditionA -- YES --> conditionC{A是否大于C}
-    conditionA -- NO --> conditionB{B是否大于C}
-    conditionC -- YES --> printA[输出A]
-    conditionC -- NO --> printC[输出C]
-    conditionB -- YES --> printB[输出B]
-    conditionB -- NO --> printC[输出C]
-    printA --> stop[结束]
-    printC --> stop
-    printB --> stop
+## 项目计划
+
+### 部分流程图
+![流程图](./plan0.png)
+
+### 计划  2018-08-18
+
+|模块|时间安排|备注|
+|:--:|:--:|:--:|
+|数据库映射模块|8月18号--8月25日|无|
+|可视化操作|8月18号--8月25日|无|
+|生成各类图表|8月18号---8月28日|无|
+
